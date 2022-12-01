@@ -1,9 +1,13 @@
-
 Title: The Dragon's Heart
+
 Author: Timo Koola
+
 Language: English
+
 Genre: Fantasy
+
 Release Date: November 30, 2022
+
 Generated: chapter start prompts using text-davinci-003, other parts with text-curie-001
 
 # 1. The Gathering of the Heroes
@@ -84,7 +88,7 @@ There were also a lot of other animals in the town who were feeling sad too.
 
 Some of them were animals who had had friends disappeared before, while others just felt sad for the sake of being sad.
 
-It was a difficult time for animals in the town, as they all tried to cope with the sadness and loneliness that was common in the season. 
+It was a difficult time for animals in the town, as they all tried to cope with the sadness and loneliness that was common in the season.
 
 Some animals organised games or activities to take their minds off things, but for the most part they just sat around, missing their friends and wondering how they were going to survive the winter.
 
@@ -96,10 +100,7 @@ Its eyes were coal black and it had a long, curling tongue. Its breath was hot a
 
 The dragon was fearsome, its hunger apparent in every Movement it made.
 
-
 # 2. The Dragon's Lair
-
-
 
 The dragon flew high in the sky.
 
@@ -169,10 +170,7 @@ According to legend, Baghdad was founded by the great-grandson of Noah, Jafar ib
 
 Today, Baghdad is the capital of Iraq, and the second largest city in the country. It has a population of more than 7 million people.
 
-
 # 3. The Search for the Ancient Weapon
-
-
 
 The kingdom's priests had been trying to find the weapon for years, but they had never been able to find it. One day, they were about to give up hope, when one of the priests walked into a room that had been sealed for years. The priests were stunned to see that the weapon was inside the room.
 
@@ -252,7 +250,7 @@ As Dick returned to the fort, he was met by Trigger and the other soldiers.
 
 "You did it!" Trigger shouted. "You killed the dragon!"
 
-Dick nodded proudly, and then headed inside to tell King Silas what had happened. 
+Dick nodded proudly, and then headed inside to tell King Silas what had happened.
 
 As Dick walked into the castle, he could hear cheering and clapping. He turned around to see King Silas, Trigger, and the other knights standing there with their arms raised in triumph.
 
@@ -295,10 +293,7 @@ A gun is an essential part of many people's lives and is a symbol of freedom and
 Gun Safety
 Ensure that any firearms you own are properly stored and that all ammunition is stored safely. Never leave a gun unsecured, and always keep it out of the reach of children. Follow all state and local laws when handling firearms.
 
-
 # 4. The Battle Begins
-
-
 
 The warriors traveled through the kingdom and eventually found the dragon. They fought against it and eventually killed it. This saved the kingdom from destruction and helped the kingdom grow.
 
@@ -366,7 +361,7 @@ She put her hand on the doorknob, but she couldn't make herself leave. She was t
 
 Then, suddenly, the storm ended.
 
- Jennifer opened the door to find that the building was completely unscathed. She was relieved and excited at the same time.
+Jennifer opened the door to find that the building was completely unscathed. She was relieved and excited at the same time.
 
 She was finally able to find her way back to Petra and the others, who were waiting outside.
 
@@ -379,8 +374,6 @@ There is a shelter available for you. You can go to the Red Cross or your local 
 The trees sway in the breeze.
 
 A squirrel runs up a tree.
-
-
 
 The leaves rustle. The squirrel looks up, then hops down from the tree.
 
@@ -396,14 +389,11 @@ This reminds me of a Chinese proverb: When the dragonfly returns to the river, i
 
 The hero overcame the challenge with courage and strength, emerging victorious in the end.
 
-
 # 5. The Gathering Storm
-
-
 
 "If you can pass through the deadly sentinels that guard the entrance to the underworld, you can conquer your fears and become the ultimate hero."
 
- journey into the underworld in this thrilling card game! As a hero seeking to vanquish death and plunder the forbidden riches of the underworld, you'll need to outsmart deadly sentinels and navigate through deadly traps in order to gain entry. Can you become the ultimate hero and conquer your fears?
+journey into the underworld in this thrilling card game! As a hero seeking to vanquish death and plunder the forbidden riches of the underworld, you'll need to outsmart deadly sentinels and navigate through deadly traps in order to gain entry. Can you become the ultimate hero and conquer your fears?
 
 In Journey into the Underworld, you play as a heroic figure trying to navigate your way through deadly traps and deadly sentinels in order to plunder the underworld and vanquish death. The goal of the game is to advance down the underworld and meet the giant Hades, who will give you your rewards for completing the game.
 
@@ -427,20 +417,20 @@ The sage said, "First, you must find the key to your quest. Second, you must cle
 
 "Setting and achieving goals is a habit" Focusing on your goals will require you to take certain dailyactions. As you slowly but surely build up this habit, you'll be more likely to achieve your goals.
 
-1) Make a list of your goals.
+1. Make a list of your goals.
 
 It's helpful to have a tangible reminder of what you're hoping to achieve. When you have a list in front of you, it will be easier to stay focused on your goals.
 It's also important to write your goals in a positive light. This will help you to feel good about yourself as you work towards your goals.
 
-2) Set a timer for 30 minutes and start working on your goals.
+2. Set a timer for 30 minutes and start working on your goals.
 
 If you want to achieve success, it's important to set yourself small goals and start working towards them. Working on your goals for 30 minutes every day can help you to move closer to your ultimate goal.
 
-3) Give yourself feedback on your progress.
+3. Give yourself feedback on your progress.
 
 It's important to give yourself feedback on your progress. This will help you to stay motivated and keep track of your overall progress.
 
-4) celebrate your achievements along the way.
+4. celebrate your achievements along the way.
 
 Celebrating your achievements will help you to keep moving forward. When you feel triumphant along the way, you're more likely to keep working hard towards your goals. Celebrating your successes can help you to remember the lessons you've learned and set new goals for the future.
 
@@ -466,12 +456,9 @@ Finally, one of the people said, "Wow, the palace is really strong. We're not go
 
 Everyone agreed and they went home.
 
- years later, the palace is still standing, looking as though it's never been damaged in the first place. The people are grateful for the protection the palace has provided for them over the years.
-
+years later, the palace is still standing, looking as though it's never been damaged in the first place. The people are grateful for the protection the palace has provided for them over the years.
 
 # 6. The Rise of the Dragon
-
-
 
 The kingdom of the North was at peace, ruled by a wise king who had brought prosperity to the land. However, there was one man who refused to abide by the king's laws - a rogue named Thorin. Thorin refused to pay taxes, and instead chose to plunder the kingdom's resources. The king was powerless to stop Thorin, and the kingdom began to fall apart.
 
@@ -493,7 +480,7 @@ Many people applauded him for his heroism.
 
 Many people applauded him for his heroism.
 
-Many people applauded him for his bravery. 
+Many people applauded him for his bravery.
 
 Many people applauded him for his bravery. Some said that he was a hero and that he should be given a medal.
 
@@ -555,10 +542,7 @@ He would never see the light of day.
 
 This is an idiom meaning that he would be executed.
 
-
 # 7. The March to Victory
-
-
 
 Elendil and his advisors gathered together all of the relics that had been passed down from the ancient Kings of Men. They used these relics to construct a magical staff called Elessar. Elessar was able to slay the dragon, and saved the kingdom.
 
@@ -584,37 +568,37 @@ The twelve members of the Kingsguard were sworn to protect the king with their l
 18. Boromir's bodyguard
 19. Thorin and Company
 20. The Rohirrim
-21.  The dwarves
-22.  The fellowship of the ring
-23.  The Necromancer's Cat
-24.  The Hobbit: The Battle of the Five Armies
-25.   The Desolation of Smaug
+21. The dwarves
+22. The fellowship of the ring
+23. The Necromancer's Cat
+24. The Hobbit: The Battle of the Five Armies
+25. The Desolation of Smaug
 
-24. The Battle of The Five Armies
-23. The Battle of The Five Armies
-22. The Battle of The Five Armies
-21. The Battle of The Five Armies
-20. The Battle of The Five Armies
-19. The Battle of The Five Armies
-18. The Battle of The Five Armies
+26. The Battle of The Five Armies
+27. The Battle of The Five Armies
+28. The Battle of The Five Armies
+29. The Battle of The Five Armies
+30. The Battle of The Five Armies
+31. The Battle of The Five Armies
+32. The Battle of The Five Armies
 
-17. The Battle of The Five Armies
-16. The Battle of The Five Armies
-15. The Battle of The Five Armies
-14. The Battle of The Five Armies
-13. The Battle of The Five Armies
-12. The Battle of The Five Armies
-11. The Battle of The Five Armies
-10. The Battle of The Five Armies
-9. The Battle of The Five Armies
-8. The Battle of The Five Armies
-7. The Battle of The Five Armies
-6. The Battle of The Five Armies
-5. The Battle of The Five Armies
-4. The Battle of The Five Armies
-3. The Battle of The Five Armies
-2. The Battle of The Five Armies
-1. The Battle of The Five Armies
+33. The Battle of The Five Armies
+34. The Battle of The Five Armies
+35. The Battle of The Five Armies
+36. The Battle of The Five Armies
+37. The Battle of The Five Armies
+38. The Battle of The Five Armies
+39. The Battle of The Five Armies
+40. The Battle of The Five Armies
+41. The Battle of The Five Armies
+42. The Battle of The Five Armies
+43. The Battle of The Five Armies
+44. The Battle of The Five Armies
+45. The Battle of The Five Armies
+46. The Battle of The Five Armies
+47. The Battle of The Five Armies
+48. The Battle of The Five Armies
+49. The Battle of The Five Armies
 
 The hero's sword is made from the finest metal and is blessed with a powerful magic. This magic allows the hero to cut through any obstacle.
 
@@ -660,10 +644,7 @@ He was loved by all who knew him, and will always be remembered as the noble kni
 
 The sword is likely to have been placed in the royal crypt following the hero's death. This way, the sword would continue to be a symbol of courage and valor for future generations.
 
-
 # 8. The Alliance of Light
-
-
 
 The people of Erasth had thought that the dragon had died a long time ago, but when it flew into the sky one day, they were suddenly faced with an impossible reality.
 
@@ -681,9 +662,9 @@ The kingdom of Erasth will never be the same after their encounter with the drag
 
 The sword is a symbol of courage and strength, passed down through generations. It is a symbol of honor and it is the ultimate symbol of authority. The Crown is worn by the King, Queen, and other heads of state. The Crown is often symbolized by a monarchy.
 
-A monarchy is a type of government where one individual, typically the monarch, is legally supreme over the country or province they rule. The crown may also be symbolized by an actual physical crown, worn by the monarch, or by symbols of the monarchy such as an orb, sceptre, or throne. Monarchy is considered to be the most fundamental form of government in the world and is distinguished from other forms of government where power is shared among several officials. Monarchy is a form of government where one person or group is the ruler or ruling class. In a monarchy, the sovereign is the individual or group who is the legitimate head of state and who is acknowledged as such by the people. The royal family is the branch of the ruling class. 
+A monarchy is a type of government where one individual, typically the monarch, is legally supreme over the country or province they rule. The crown may also be symbolized by an actual physical crown, worn by the monarch, or by symbols of the monarchy such as an orb, sceptre, or throne. Monarchy is considered to be the most fundamental form of government in the world and is distinguished from other forms of government where power is shared among several officials. Monarchy is a form of government where one person or group is the ruler or ruling class. In a monarchy, the sovereign is the individual or group who is the legitimate head of state and who is acknowledged as such by the people. The royal family is the branch of the ruling class.
 
-A monarchy can be an absolute monarchy, in which the sovereign possesses absolute power and is not subject to any law or constitution, or a constitutional monarchy, in which the sovereign is subject to the law and to the oversight of an elected representative legislature. 
+A monarchy can be an absolute monarchy, in which the sovereign possesses absolute power and is not subject to any law or constitution, or a constitutional monarchy, in which the sovereign is subject to the law and to the oversight of an elected representative legislature.
 
 In Europe, most monarchies are constitutional monarchies. By contrast, in Asia there are two ostensibly absolute monarchies: Malaysia (since 1957) and Thailand (since 1932). In both cases, the ruling family derives its LEGITIMATE authority from the consent of the people (in the case of Malaysia) or from a 1957 referendum (in the case of Thailand). In practice, however, the effective power of these kingdoms is largely undisputed and unquestioned. In these two countries, the people enjoy a substantially higher degree of political and civil rights than in most of the rest of the world.
 
@@ -719,10 +700,7 @@ The king was happy to be with a kind girl, but he was sad to leave his friends i
 
 The king was happy to be with a kind girl, but he was sad to leave his friends in the other corners of the world.
 
-
 # 9. The Curse of the Dragon
-
-
 
 The dragon was a powerful and ruthless creature, and it attacked and DESTROYED the kingdom. The people were terrified and fled in all directions. Only the king and a few brave fighters remained to try and fight off the dragon. Unfortunately, they were no match for the dragon, and they were killed.
 
@@ -804,10 +782,7 @@ The hero is also offered a position of power, which he gladly accepts.
 
 The hero is offered a position of power as the new head of the government. He accepts and quickly starts to make changes to help improve the lives of the people. The people are happy with the new head of the government and everything is going great. However, the new head of the government eventually becomes corrupt and starts to take advantage of the people. The people become frustrated with the new head of the government and start to rebel. The rebel forces eventually defeat the government and the new head of the government is arrested.
 
-
 # 10. The Power of the Sword
-
-
 
 The king was very disappointed. He had been counting on his defenders to help protect the kingdom. Instead, they had all died.
 
@@ -893,7 +868,6 @@ The dragon's sharp eyesight was able to see the hikers through the dense forest.
 
 When it reached the hikers, it slowed down and flew over them, inspecting them carefully. It then swooped down and picked them up in its talons, taking off back into the sky.
 
-
 # 11. The Secret of the Dragon's Power
 
 King Aldric woke up with a start, andQuickly, he got up and ran over to the dragon, kneeling down beside it. "What is wrong?" he asked, panicked."My queen has been kidnapped!" the dragon said. "They took her away on a dragon flying ship!"King Aldric gasped. "We have to find her!" he said, beginning to get up."Stay here," the Dragon said. "I'll go find your queen."And with that, the Dragon flew off into the sky, intent on rescuing his queen.King Aldric quickly called for his soldiers, and began to organize an expedition to find his queen. He called for all the knights in the kingdom to join him, and soon, a large group was set off on a search for his queen.They flew around the kingdom, looking for any sign of a dragon flying ship. Eventually, they found it. A group of people were carrying a large, gold-toned dragon egg back to the castle.King Aldric flew over to them, and saw that it was his queen. Tears began to stream down his face, as he knelt down and whispered, "I love you, my queen."With that, he flew away, intent on returning to the kingdom as soon as possible.
@@ -978,16 +952,13 @@ The kingdom of the North flourished under the wise rule of the king. The kingdom
 
 Overall, the kingdom was prosperous and enjoyed relative peace and prosperity. However, there were some issues that needed to be addressed. The main problem that the kingdom faced was its currency. The currency was not consistent and caused a lot of confusion among its citizens. Another issue that needed to be addressed was the lack of education among its people. There was not enough funding allocated for schools, which resulted in a skewed distribution of knowledge.
 
-
 # 12. The Battle for the Kingdom
-
-
 
 The hero's legacy was remembered for generations, his courage and strength an inspiration to all.
 
 The legacy of the hero is remembered for generations and his courage and strength are an inspiration to all.
 
- courage and strength are qualities that can save a kingdom from destruction.
+courage and strength are qualities that can save a kingdom from destruction.
 
 Frederick the Great was a great example of a king who was able to display courage and strength. He was able to prevented the loss of his kingdom many times, and he was also able to lead his kingdom to military victories.
 
@@ -1007,7 +978,7 @@ Yes.
 
 Yes, a company can offer vacation time, paid leave, or other days off to its employees in order to allow them to take care of personal matters.
 
-The hero's sword shone brightly in the light of the sun. 
+The hero's sword shone brightly in the light of the sun.
 
 The hero's sword shone brightly in the light of the moon.
 
@@ -1027,7 +998,7 @@ Astronauts spend years training for a mission like this, so they are well-prepar
 
 Luckily, Kopra was able to keep his composure and land safely back on the ground. However, if he had fallen into the abyss below, his fate would have been much worse.
 
-Thankfully, Kopra was able to keep his composure and land safely back on the ground.  However, if he had fallen into the abyss below, his fate would have been much worse.
+Thankfully, Kopra was able to keep his composure and land safely back on the ground. However, if he had fallen into the abyss below, his fate would have been much worse.
 
 Luckily, Kopra is now a much better pilot and knows how to stay safe in tight conditions.
 
@@ -1117,22 +1088,19 @@ I turned and walked away, feeling a little bit more than just ignored.
 
 I was starting to think that my job wouldn't be so great after all.
 
-
 # 13. The Return of the Dark Lord
 
+However, lurking in the shadows, waiting to strike, was a fearsome enemy with a legendary leadership.
 
+The king was confident that he could protect his people, but he was not the only one with ambition. Other lords, seeking to carve their own path in the new world, gathered their armies and prepared for war.
 
-However, lurking in the shadows, waiting to strike, was a fearsome enemy with a legendary leadership. 
+The king knew he must act fast if he was to protect his people, but he also knew that only bold action would bring victory.
 
-The king was confident that he could protect his people, but he was not the only one with ambition. Other lords, seeking to carve their own path in the new world, gathered their armies and prepared for war. 
+He called upon his most trusted advisors, and together they crafted a plan.
 
-The king knew he must act fast if he was to protect his people, but he also knew that only bold action would bring victory. 
+They would march south and wage war on the enemy, driving them from the land and restoring peace to the kingdom.
 
-He called upon his most trusted advisors, and together they crafted a plan. 
-
-They would march south and wage war on the enemy, driving them from the land and restoring peace to the kingdom. 
-
-If they were successful, they could claim the title of king and build a legacy that would be remembered for centuries to come. 
+If they were successful, they could claim the title of king and build a legacy that would be remembered for centuries to come.
 
 The king and his advisors set out on their journey, and the fate of the kingdom lay in their hands. If they were successful, they could claim the title of king and build a legacy that would be remembered for centuries to come.
 
@@ -1146,7 +1114,7 @@ On the other hand, if they are successful, they can be remembered as a successfu
 
 On the whole, it is likely that there is some benefit to ruling in a positive manner, even if it is only temporary. This is because this type of ruling creates a sense of order and stability in the society that benefits both the ruling party and the people it rules. In addition, this kind of order can help reduce the likelihood of problems arising and can lead to increased economic growth.
 
- Conversely, a ruler who imposes their own personal beliefs on the population is likely to face protests and chaos, as the people will not be content with the government's direction. This can lead to a decline in the country's economic stability, as well as its ability to defend itself.
+Conversely, a ruler who imposes their own personal beliefs on the population is likely to face protests and chaos, as the people will not be content with the government's direction. This can lead to a decline in the country's economic stability, as well as its ability to defend itself.
 
 The day of celebration was declared on the anniversary of the hero's victory.
 
@@ -1174,17 +1142,15 @@ The sword lights up the area in front of it and makes it hard for enemies to see
 
 The sword creates a protective shield that blocks all incoming damage for a short period of time.
 
-
-
 The sword creates a protective shield that blocks all incoming damage for a short period of time.
 
 Active: You create a shield that blocks all incoming damage for a short period of time. Damage taken before the shield is created is reduced by a percentage.
 
-The shield has a cooldown. 
+The shield has a cooldown.
 
-The shield lasts for 10 seconds. 
+The shield lasts for 10 seconds.
 
-The shield absorbs 800 damage. 
+The shield absorbs 800 damage.
 
 The shield has a 30 second cooldown.
 
@@ -1210,10 +1176,7 @@ The sword is perhaps created from the finest metal and blessed with powerful mag
 
 Whatever its origin, the sword is an important symbol of strength, unity, and protection. It is a tool that can be used to fighting for good, or for evil, and its power is undeniable. As long as the sword remains wielded by those who understand its power, it will always be able to bring peace and justice to those who need it.
 
-
 # 14. The Betrayal of the King
-
-
 
 Prince Jador must embark on a journey to face the dragon and end its reign of terror. Along the way, he'll meet strange creatures, treacherous allies, and overwhelming foes. But with courage and strength, he can overcome any challenge and impose his will on the kingdom.
 
@@ -1267,18 +1230,15 @@ This can't be happening, he thought as he tried to fight against the mounting na
 
 Naruto vaguely heard someone calling his name, but the darkness quickly claimed him.
 
-The elves who populated the forest were a peaceful people, and they enjoyed the magic of the woods very much. They spent their days singing and dancing in the forests, and they often trade goods with the nearby humans.  
+The elves who populated the forest were a peaceful people, and they enjoyed the magic of the woods very much. They spent their days singing and dancing in the forests, and they often trade goods with the nearby humans.
 
-Despite their love of the forest, the elves were also very wise. They knew that the forest was a magical place, and they cherished its magic.  Some of the elves even believed that the forest was the home of the elves' god, Elvish.  
+Despite their love of the forest, the elves were also very wise. They knew that the forest was a magical place, and they cherished its magic. Some of the elves even believed that the forest was the home of the elves' god, Elvish.
 
-The elves were not always safe in the forest, however. The evil witch, Malinda, had a Cabin in the Woods, and she used its magic to curse the elves. The elves were losing their hair and their eyes were turning green.  The elves knew that they needed to find someone who could help them, and they asked the nearby humans for help.
+The elves were not always safe in the forest, however. The evil witch, Malinda, had a Cabin in the Woods, and she used its magic to curse the elves. The elves were losing their hair and their eyes were turning green. The elves knew that they needed to find someone who could help them, and they asked the nearby humans for help.
 
-The humans were not sure how to help the elves, but they decided to do something. They built a bridge across the forest, and the elves walked over it to find the humans.  When the elves arrived at the humans' homes, they were very excited.  The elves thanked the humans for helping them, and they promised to never forget what the humans had done for them.
-
+The humans were not sure how to help the elves, but they decided to do something. They built a bridge across the forest, and the elves walked over it to find the humans. When the elves arrived at the humans' homes, they were very excited. The elves thanked the humans for helping them, and they promised to never forget what the humans had done for them.
 
 # 15. The Curse of the Dark Wizard
-
-
 
 Princess Amala wondered what could have happened to make the dragon so sad and chained. She wanted to help the dragon, so she walked over to the stake and freed the dragon. Then she brought him to the nearest village to get help.
 
@@ -1296,11 +1256,11 @@ The story is set in an unspecified time period.
 
 The hero is a young man who finds himself in a difficult situation. He must make choices that could potentially lead to him getting hurt or killed.
 
- Throughout the story, the hero continually confronts obstacles that prevent him from achieving his goals. However, he ultimately prevails and saves the day.
+Throughout the story, the hero continually confronts obstacles that prevent him from achieving his goals. However, he ultimately prevails and saves the day.
 
 In the beginning of the story, the hero is met with difficulties in his attempts to accomplish his goal of saving the day. For instance, he is met with obstacles such as a lack of information, a lack of funds, and a shortage of manpower. Despite these challenges, he persists and eventually succeeds in saving the day.
 
-The protagonist is an effective leader who inspires others to follow his example. He is able to face initial challenges head on and achieve his goals.  He demonstrates strong determination and perseverance in the face of adversity.
+The protagonist is an effective leader who inspires others to follow his example. He is able to face initial challenges head on and achieve his goals. He demonstrates strong determination and perseverance in the face of adversity.
 
 He never gives up, no matter how hard the challenge. In the face of overwhelming odds, he never quit. Despite the obstacles in his way, he always manages to get what he wants.
 
@@ -1352,7 +1312,6 @@ yes
 
 It depends on what you mean by "game". Consider different types of games:
 
-
 -Board games: These are games where players draw squares on a game board, move their pieces around the board, and try to capture other players' pieces.
 
 -Card games: These are games where players collect cards and use their actions to win points.
@@ -1369,10 +1328,7 @@ Finally, after a long battle, the enemy is defeated. The enemy's sword continued
 
 The protagonist triumphantly walks over to the enemy and kneels down, pulling their sword off of the ground. He stands up and holds the sword up in the air with a triumphant smile, before turning and walking away, his friends behind him.
 
-
 # 16. The Secret of the Dragon's Curse
-
-
 
 The dragon was a fearsome beast with massive wings, talons, and teeth. It was so large and powerful that it could destroy everything in its path. The king and his people could do nothing to stop the dragon, and it soon destroyed the kingdom.
 
@@ -1398,9 +1354,9 @@ Saint Sully is a renowned patron saint of Paris. He is said to have had a miracu
 
 Saint Sully is one of the patrons saint of Paris (along with Saint Genevieve, Saint-Étienne de Javel, Saint Honoré, and Saint-Michel).
 
-Saint Sully was born in Autun, Auvergne, in 389 or 390 AD. He was crowned Emperor of the West in 402 and died in 415. 
+Saint Sully was born in Autun, Auvergne, in 389 or 390 AD. He was crowned Emperor of the West in 402 and died in 415.
 
-After his death, his relics were moved to the Abbey of Saint-Sulpice in Paris, where they remained until the Revolution. In 1793, the remains were destroyed and thrown into the Seine. 
+After his death, his relics were moved to the Abbey of Saint-Sulpice in Paris, where they remained until the Revolution. In 1793, the remains were destroyed and thrown into the Seine.
 
 In 1814, the bones were found and reinterred in the crypt of Saint-Sulpice. His feast day is October 23.
 
@@ -1421,13 +1377,12 @@ The hero's sword is made from the strongest metal and provisioned with a powerfu
 Some common features of a hero's sword are:
 
 -The sword is made of the strongest metal possible.
--The sword is specially provisioned with powerful magic that helps it inflict damage on enemies. 
--The sword is decorated with intricate carvings that tell a story or express the hero's sentiments. 
+-The sword is specially provisioned with powerful magic that helps it inflict damage on enemies.
+-The sword is decorated with intricate carvings that tell a story or express the hero's sentiments.
 -The sword is often long and curved, making it easier to swing.
 -The sword is often used in combat to defend oneself or others.
 
 -The sword can also be used as a tool to cut or cut apart objects.
-
 
 -It is also possible to use the sword to Poke someone as a joke.
 
@@ -1457,10 +1412,7 @@ The young man smiled gratefully. "Thank you, my lady," he said. "I really apprec
 
 The witch nodded before she began to cast a spell.
 
-
 # 17. The Journey to the Dragon's Keep
-
-
 
 She thought about what she should say as she got closer and then she got an idea.
 
@@ -1490,9 +1442,9 @@ She got up from the bed and grinned at the dragon.
 
 "You're welcome, my friend. Now go forth and slay your enemies!"
 
-The river ran swiftly along the valley below, white snowmelts resting on its banks. 
+The river ran swiftly along the valley below, white snowmelts resting on its banks.
 
-The air was brisk and the leaves rustled in the wind. 
+The air was brisk and the leaves rustled in the wind.
 
 A group of hikers, walking to the summit of the mountain, stopped to take in the view.
 
@@ -1507,8 +1459,6 @@ Alternatively, the protagonist may have placed his sword in a shrine in order to
 Alternatively, the protagonist may have placed his sword in a shrine in order to constantly remind him of the people he's fighting for.
 
 The people of the kingdom celebrated the hero's victory with a day of celebration. King Osmond rewarded the hero with a prestigious title and a sizeable fortune. All in all, it was a very commendable turn of events.
-
-
 
 The title was bestowed upon the hero as a token of his greatly appreciated service. The money was simply a pleasant side-effect.
 
@@ -1564,10 +1514,7 @@ The forest may be alive with the sound of birds and the scent of wildflowers, bu
 
 7. Report any tree-related incidents to your local conservation group. They can help to monitor the forest and take action if necessary to protect the trees.
 
-
 # 18. The Gathering of the Heroes' Strength
-
-
 
 Arthur proposed that they all sneak up on the dragon while it was sleeping. His plan was to rush the dragon while it was sleeping, and hopefully knock it out with one punch.
 
@@ -1641,10 +1588,7 @@ The tenth advisor was the lord high steward. The lord high steward advised the k
 
 The lord high steward would usually be a member of the royal family, and was usually appointed on the recommendation of the Prime Minister. The position could be honorary, or it could be a full-time job with a salary.
 
-
 # 19. The Unveiling of the Ancient Magic
-
-
 
 Upon arrival, Princess Amala was led to a small room where the dragon resided. She was awestruck by the dragon's size. The dragon looked her in the eye and opened its mouth to show its razor sharp teeth. The Princess knew that she was in for a dangerous adventure.
 
@@ -1666,7 +1610,7 @@ The dragon killed the king and his people. The dragon scorched the land because 
 
 The hero of the story was a young man, his sword drawn and ready to face any danger that threatened his people. He was brave, courageous, and loyal, and he always put the safety of his people first. He was a warrior, and he fought for justice and freedom.
 
-If the king agreed to let the stranger rule in his place for a year, the kingdom would be prosperous and secure. However, if the king refused, his own son would inherit the throne and the kingdom would be in ruin. 
+If the king agreed to let the stranger rule in his place for a year, the kingdom would be prosperous and secure. However, if the king refused, his own son would inherit the throne and the kingdom would be in ruin.
 
 The king thought about the offer for a long time, but in the end he couldn't resist the temptation and decided to take it. The stranger ruled for a year and during that time the kingdom was prospering. However, when the year was up, the king's son came to take the throne and when he did, the kingdom fell into ruin.
 
@@ -1678,7 +1622,7 @@ When he took the throne, he had made sure that his own children would be the nex
 
 One day, he overheard a debate between two of his advisors. The first said that the kingdom should STEP UP its efforts to find a new heir, while the second said that the kingdom was fine the way it was. The king was torn, but he knew that he had to choose one of the two advisors.
 
- eventually, he chose the advisor who said that the kingdom was fine the way it was. The king was sad that he couldn't find a child he could trust to take his place, but he knew that he had made the right decision.
+eventually, he chose the advisor who said that the kingdom was fine the way it was. The king was sad that he couldn't find a child he could trust to take his place, but he knew that he had made the right decision.
 
 The day of celebration was Sunday. Mrs. Thorne prepared a buffet breakfast of oatmeal, eggs, bacon, toast and jams. Sue brought her favorite cake, Mrs. Fields' chocolate chip cookies, which she spread on a large piece of bread.
 
@@ -1696,7 +1640,7 @@ Tommy got a new tie and Ace got a new baseball glove.
 
 "I'm glad you like them," Ace said. "I know that I will use my new baseball glove a lot."
 
- shortly afterward, the Thorne children were on their way to church.
+shortly afterward, the Thorne children were on their way to church.
 
 "I can't wait to see what the pastor has in store for us today," Tommy said.
 
@@ -1718,7 +1662,7 @@ The pastor went on to tell the story of how God fulfilled his promise to bring t
 
 The children listened attentively as the pastor read. When he was done, they all sang a song together.
 
- afterwards, the children went to lunch at the school cafeteria.
+afterwards, the children went to lunch at the school cafeteria.
 
 Mrs. Thorne had prepared a special Easter feast for the children. There was ham, cheese, eggs, potatoes and green beans.
 
@@ -1742,7 +1686,7 @@ The children filed out of the church into the sunshine.
 
 The children went home and quickly changed into their Easter clothes.
 
- Mrs. Thorne had madeyellow, egg-shaped cake for the children to eat.
+Mrs. Thorne had madeyellow, egg-shaped cake for the children to eat.
 
 "This is a custom that our family follows on Easter day," she said. "We eat cake because it reminds us of the egg that was laid by the cosmic Baby Jesus."
 
@@ -1754,10 +1698,7 @@ The children were happy to have cake, and they ate it with a happy appetite.
 
 "I know the feeling," Mrs. Thorne said. "But I'm glad that Easter is over. I think that we all needed a rest."
 
-
 # 20. The Call to Battle
-
-
 
 As they marched forth, they found themselves in front of an impenetrable wall of flames. The dragon was waiting for them, and it proved to be a formidable opponent.
 
@@ -1765,9 +1706,9 @@ The king and his troops were overwhelmed, and they were forced to retreat back h
 
 The kingdom was saved, but at what cost?
 
-One day, the king was out hunting in the forest when he was attacked by a fierce lion. The king fought bravely, but was eventually overcome and killed. His young son, who was with him at the time, was saved by the lioness, who killed the lion and took the king's body away. 
+One day, the king was out hunting in the forest when he was attacked by a fierce lion. The king fought bravely, but was eventually overcome and killed. His young son, who was with him at the time, was saved by the lioness, who killed the lion and took the king's body away.
 
-The boy was left alone in the forest, and had to find his way back to the kingdom. He travelled for many days, and finally arrived at the gates of the city. The guard recognised the prince and let him in, but the king's son was so exhausted that he fell into a deep sleep at the foot of the royal stairs. 
+The boy was left alone in the forest, and had to find his way back to the kingdom. He travelled for many days, and finally arrived at the gates of the city. The guard recognised the prince and let him in, but the king's son was so exhausted that he fell into a deep sleep at the foot of the royal stairs.
 
 When the king heard about his son's arrival, he was so happy that he ordered a feast to be held in honour of his return.
 
@@ -1775,7 +1716,7 @@ The hero is required to travel to the enemy's stronghold and take out their lead
 
 The hero is required to travel to the enemy's stronghold and take out their leaders. After defeating the leaders, the stronghold will be conquered and the kingdom will be saved.
 
-The hero is required to travel to the enemy's stronghold and take out their leaders.  After defeating the leaders, the stronghold will be conquered and the kingdom will be saved.
+The hero is required to travel to the enemy's stronghold and take out their leaders. After defeating the leaders, the stronghold will be conquered and the kingdom will be saved.
 
 The hero must first find and collect information about the stronghold's leaders. This can be done by interrogating political prisoners or by employing spies. Once the information is secured, the hero can formulate a plan to take out the leaders. The strategy may involve stealth, ambush, or frontal assault. Once the leaders are eliminated, the stronghold will fall and the kingdom will be saved.
 
@@ -1799,11 +1740,7 @@ No, if I revealed the information, it would be dishonest.
 
 Volkswagen AG, headquartered in Wolfsburg, Germany, is the world's largest automaker by production. In 2009, Volkswagen had worldwide sales of 11.2 million vehicles, making it the eighth largest automaker in the world. The company employs around 260,000 people worldwide.
 
-
-
 Toyota has a long history of developing quality cars. Toyota first became a major automaker in the 1930s, when it produced trucks and racing cars. Toyota's focus on quality led it to become one of the pioneers of the Japanese auto industry.
-
-
 
 Toyota's cars are known for their quality, reliability, and durability. The company's models include the Toyota Camry, the Toyota Corolla, and the Toyota Tacoma. Toyota also makes the Lexus line of luxury cars.
 
@@ -1827,14 +1764,11 @@ The dragon was enormous, with a wingspan that seemed as wide as the sky itself. 
 
 The dragon was enormous, with a wingspan that seemed as wide as the sky itself. It held a serpent in its claws, and its eyes shone red with anger.
 
-
 # 21. The Awakening of the Dragon
 
- The king tried to use his power to stop the dragon, but he was unsuccessful. In the end, the people were forced to flee the kingdom and live in exile.
+The king tried to use his power to stop the dragon, but he was unsuccessful. In the end, the people were forced to flee the kingdom and live in exile.
 
 This ends the story.
-
-
 
 After he died, she was heartbroken and she never got over it. She passed away a few years later.
 
@@ -1874,9 +1808,9 @@ Joe tried to free Lisa’s foot but it was still wedged in the roots.
 
 The group gathered around Lisa and tried to lift her out of the ditch.
 
- Finally, they were able to lift her out and onto the ground.
+Finally, they were able to lift her out and onto the ground.
 
- Lisa was shaken but okay.
+Lisa was shaken but okay.
 
 “That was a close one,” she said, as she brushed herself off.
 
@@ -1887,7 +1821,6 @@ As they continued their journey, they eventually came to a clearing.
 “This should be the place,” said Lisa, as she looked around.
 
 The students quickly set up camp and prepared dinner.
-
 
 After dinner, Lisa gathered the group around her.
 
@@ -1921,16 +1854,13 @@ The princess chose the man who had been Polonius's tutor, naming him her husband
 
 Under the wise rule of the king, the kingdom of the North prospered. The king was able to manage the kingdom efficiently, and provided for its citizens with health and safety, education, and other services. The people of the North were able to live prosperous lives, and they were able to grow and prosper. The king also maintained order and stability in the kingdom, which allowed for economic growth.
 
-The people of the North were able to live prosperous lives, and they were able to grow and prosper.  The king also maintained order and stability in the kingdom, which allowed for economic growth.
-
+The people of the North were able to live prosperous lives, and they were able to grow and prosper. The king also maintained order and stability in the kingdom, which allowed for economic growth.
 
 # 22. The Clash of Steel and Magic
 
-
-
 The dragon helped the king to Defeat the enemy and put an end to the war. He was then able to unite the people of Erasth and lead them back to a new era of peace and prosperity.
 
-Back in the kingdom, the hero found a letter from the queen. 
+Back in the kingdom, the hero found a letter from the queen.
 
 Queen: Congratulations on your victory! I am so proud of you.
 
@@ -1957,12 +1887,9 @@ Under the wise rule of the king, the kingdom of the North prospered. The king pu
 
 He created the Royal Court System which allowed for the separation of powers and fair trial.
 
-
-
 He also helped create the English Parliament which allowed for the voicing of the people's will.
 
 The deep green forests were full of life, the trees swaying in the breeze. The leaves rustled in the wind and the animals in the forest scurried about. One small creature made its way through the trees and up a small tree. It perched on a branch and looked around.
-
 
 Suddenly, it heard a branch snap and it turned to see a large furry creature charging at it. It jumped off the tree and ran away. The animal chased after it, but it was too slow and it escaped.
 
@@ -1990,21 +1917,21 @@ The swordsman was an outstanding fighter, slaying his enemies with ease. His swo
 
 The dragon soared through the sky, its powerful wings stretching out for miles. The sun was setting and the colors were brilliantly beautiful.
 
-The dragon finally came to a stop, silently soaring over a large forest. The forest was blanketed in a deep darkness and a cold breeze was blowing through the leaves. The dragon lazily lowered its wings and landed in a clearing, gazing at the small cottage in front of it. The cottage was nestled in the forest, completely hidden from sight. It looked like a perfect place to rest for the night. The dragon slowly walked towards the cottage, its powerful footfalls making the ground tremble. It slowly walked through the door, closing it behind it. 
+The dragon finally came to a stop, silently soaring over a large forest. The forest was blanketed in a deep darkness and a cold breeze was blowing through the leaves. The dragon lazily lowered its wings and landed in a clearing, gazing at the small cottage in front of it. The cottage was nestled in the forest, completely hidden from sight. It looked like a perfect place to rest for the night. The dragon slowly walked towards the cottage, its powerful footfalls making the ground tremble. It slowly walked through the door, closing it behind it.
 
-The cottage was dark, the only light coming from a crack in the door. 
+The cottage was dark, the only light coming from a crack in the door.
 
-The dragon slowly approached the bed, its eyes glowing a bright red. 
+The dragon slowly approached the bed, its eyes glowing a bright red.
 
-The sleeping girl stirred in her sleep, her eyes opening wide as she saw the dragon. 
+The sleeping girl stirred in her sleep, her eyes opening wide as she saw the dragon.
 
-she screamed, running towards the door. 
+she screamed, running towards the door.
 
-But it was too late. 
+But it was too late.
 
-The dragon grabbed her by the hair, yanking her towards it. 
+The dragon grabbed her by the hair, yanking her towards it.
 
-She squirmed, but it was no use. 
+She squirmed, but it was no use.
 
 The dragon lifted its head, opening its mouth wide.
 
@@ -2014,10 +1941,7 @@ The feast celebrated the victory of the hero and the people's gratitude for his 
 
 The hero's name was usually unknown to the people, and it was not customary for them to celebrate his victory. After the feast was over, the people would quietly thank the hero for his services and leave.
 
-
 # 23. The Return of the Ancient Prophecy
-
-
 
 The kingdom rejoiced as the hero returned triumphant, the people of the North celebrating the victory.
 
@@ -2059,7 +1983,7 @@ This is definitely a distinction that is well-deserved. Not only did the hero ri
 
 Until one day, the king was drawn into a mysterious magical realm, and he was never seen again. His subjects were left to fend for themselves in a land full of danger and unrest.
 
- centuries have passed and the kingdom is in shambles. The people are weak and afraid, and the land is overrun by monsters. One brave young man sets out to find the king and bring him back to reign over his people.
+centuries have passed and the kingdom is in shambles. The people are weak and afraid, and the land is overrun by monsters. One brave young man sets out to find the king and bring him back to reign over his people.
 
 Your adventure begins with a journey across the wild, dangerous landscape. You'll need all your strength and cunning to make your way to the heart of the magical realm and find the king. There, you'll need to use your skills to battle dangerous creatures and restore peace to the kingdom. Can you succeed in restoring order and stability to the kingdom? Only by finding the king can you ensure the safety and future of your people. Do you have what it takes to save the day?
 
@@ -2081,10 +2005,7 @@ The dragon's return is a sign of the dawning of a new era.
 
 This could mean that the dawning of a new era is imminent, or that the dragon's return is something significant that is about to happen. It could also be interpreted as a metaphor for the coming of a new age, or as an omen of some sort.
 
-
 # 24. The Alliance of the Forces of Good
-
-
 
 The dragon was a powerful and ruthless creature, and it enslaved the people of Erasth. The king tried to fight the dragon but was unsuccessful, and he was eventually captured. The dragon destroyed much of the kingdom, leaving only rubble in its wake.
 
@@ -2154,7 +2075,7 @@ There were unicorns, sprites, and fairies everywhere you looked. The air was sce
 
 The trees were so tall that you could see for miles in any direction. The underbrush was dense, and the leaves were a vibrant green.
 
-The sunlight filtered through the trees and sparkled on the crystal clear water that flowed through the forest. 
+The sunlight filtered through the trees and sparkled on the crystal clear water that flowed through the forest.
 
 The forest was a beautiful place to walk, and the sound of the water was calming. The sun was shining, and the birds were singing.
 
@@ -2198,16 +2119,11 @@ The dragon fought fiercely, and it soon defeated the monster.
 
 With the water now safe, the dream flew back to the dragon's island home.
 
-
 # 25. The Last Stand of the King
-
-
 
 The moral of this story is that if you want to defeat a powerful foe, you must be prepared to fight tooth and nail.
 
 But when a new threat arises, the North must rally to defend their shores and claim back their rightful place in the kingdom.
-
-
 
 Kingdom of the North is a new asynchronous board game for 2 to 4 players that takes about 30 minutes to play. The game can be best described as a combination of CLASH OF CLANS and THE KINGDOM HEARTS series. You play as one of the vassals of theNORTHERN KINGDOM, with the goal of defending your land from the invading South. You will need to build up your forces and defenses, and rally your vassals to your cause in order to survive the onslaught of the South. The game includes heroes from both the NORTHERN and SOUTHERN KINGDOMS, and features unique dice (similar to those found in MAGE WARS) that will allow you to boost your forces, abilities, and defenses against your foes.
 
@@ -2235,7 +2151,7 @@ Rey was born on the agricultural world of Jakku, and found her calling as a salv
 
 Rey has a strong connection to the Force, and through it she is able to use her powers to manipulate objects and people. She is also a gifted orator, and her words have the power to rally people to the cause.
 
-Rey is a powerful Force user who struggles to find her place in the world.  She is constantly seeking guidance from the Force, and her destiny remains a mystery.
+Rey is a powerful Force user who struggles to find her place in the world. She is constantly seeking guidance from the Force, and her destiny remains a mystery.
 
 Rey is fiercely independent and determined to find her place in the world. She is a powerful Force user, but she often struggles to find her place in the Force. Rey is deeply curious and wants to know everything there is to know about the Force. She is always searching for guidance from the Force, and she remains a mystery to many.
 
@@ -2257,10 +2173,7 @@ In the Netflix original series, Star Wars: The Last Jedi, Rey uses the Force to 
 
 The kingdom of the North flourished under the wise rule of the king who led it from strength to strength. He was a wise and good ruler who worked hard to ensure the good of his people. The kingdom was prosperous and stable, and the people were happy and content.
 
-
 # 26. The Climb to the Top of the Tower
-
-
 
 May your journey be prosperous, and may the gods be with you.
 
@@ -2342,10 +2255,7 @@ The paddle is perfect for Instructional use and for teaching children about the 
 
 The hero was able to face the challenge and emerge victorious despite the odds.
 
-
 # 27. The Battle Against the Dragon
-
-
 
 The hero was punished by the kingdom, their deeds forgotten.
 
@@ -2425,14 +2335,11 @@ Indeed, the hero's journey would live on in the kingdom, as both the people and 
 
 The dragon flew back to its home in the high mountains, a sign of a new day.
 
-The stranger offered to trade the king a virgin daughter in exchange for military power and riches. The king was hesitant to make the deal, but after much consideration he accepted. 
+The stranger offered to trade the king a virgin daughter in exchange for military power and riches. The king was hesitant to make the deal, but after much consideration he accepted.
 
 The virgin daughter was married off to a nobleman and the kingdom flourished. The stranger was correct – the exchange of the daughter for the power and riches was the right decision.
 
-
 # 28. The Fall of the Dark Lord
-
-
 
 "Let us attack this dragon," said one of the advisors.
 
@@ -2473,8 +2380,6 @@ The hero was presented with a medal of honor for his bravery and courage.
 The hero was presented with a medal of honor for his bravery and courage.
 
 The hero was presented with a medal of honor for his bravery and courage.
-
-
 
 The hero was also presented with a certificate of appreciation from the president.
 
@@ -2528,10 +2433,7 @@ Mosul was injured in the crash, and he had to be taken to a hospital. Unfortunat
 
 Mosul was lost and heartbroken, but he knew that he had to find a way to survive. He had to find a new place to live, and he had to find a way to make money.
 
-
 # 29. The Secret of the Dragon's Heart
-
-
 
 One day, the king's daughter discovered the chamber. She was exploring the palace when she stumbled upon the secret door. She entered the chamber, and the dragon caught sight of her.
 
@@ -2589,9 +2491,9 @@ The White Knight was celebrated in every corner of the kingdom, and everyone agr
 
 The kingdom of the North had grown weak during the war with the South, and it was only through the strength and power of the North Kingdoms people that they were able to take back their kingdom. Now, the people were happy and rejoiced in the victory, each looking forward to the future.
 
-King Odin had been killed in the battle against the South, but his son, Prince Alex, had taken over and led the kingdom with strength and power. Prince Alex was a good king, and he made sure that his people were happy and safe. 
+King Odin had been killed in the battle against the South, but his son, Prince Alex, had taken over and led the kingdom with strength and power. Prince Alex was a good king, and he made sure that his people were happy and safe.
 
-One day, Prince Alex received a letter from a kingdom in the south. The kingdom was asking for help, and Prince Alex knew that he must go and help them. He was the only person who could help them, and he knew that it was his duty to help his people. 
+One day, Prince Alex received a letter from a kingdom in the south. The kingdom was asking for help, and Prince Alex knew that he must go and help them. He was the only person who could help them, and he knew that it was his duty to help his people.
 
 So, Prince Alex set out on a journey to the south. He was determined to help his people and restore their kingdom. Prince Alex was a good king, and he would not let his people down.
 
@@ -2599,10 +2501,7 @@ After successfully completing his heroic journey, the hero is now a revered figu
 
 The hero's sword glowed with a powerful light as he faced off against the enemy.
 
-
 # 30. The Return of the Lost Sword
-
-
 
 One of the advisors suggested that the king build a giant tower and place a large quantity of rocks at the top of it. The dragon would then have to climb up the tower to eat the food that was stored there. The king agreed to the plan, and began to build the tower.
 
@@ -2646,7 +2545,7 @@ The medal is silver and circular, with a raised edge. It has the letters "MC" ac
 
 The decoration is a Silver Maple Leaf which may be awarded to a Canadian who has distinguished himself or herself by heroic or exceptional achievements while serving in the Canadian Armed Forces.
 
-The decoration was first created in 1947 by King George VI and was administered by the Canadian War Graves Commission. 
+The decoration was first created in 1947 by King George VI and was administered by the Canadian War Graves Commission.
 
 The award is presented to members of the Canadian Armed Forces, who have distinguished themselves by heroic or exceptional achievements while serving their country. The decoration is awarded for either single or multiple acts of heroism or exceptional service.
 
@@ -2658,10 +2557,7 @@ The next day, the Queen summoned her son and accused him of being lazy and not t
 
 The day of the trial, the two princes arrived at the battlefield prepared for battle. As the two fought, their duel quickly turned into a bullfight as they taunted and poked at each other with their swords. Prince Ren eventually defeated his elder brother in a sword duel, proving himself to be the rightful heir to the throne. Queen Qian Qian was overjoyed and immediately recognized her son as the new king.
 
-
 # 31. The Shadow of the Dragon's Curse
-
-
 
 The darkness stayed with the kingdom for a long time and it was hard for the people to live their normal lives. They couldn't see anything and they were afraid to go outside.
 
@@ -2709,16 +2605,15 @@ The medal of honor is a symbol of honor, bravery, and patriotism. It is typicall
 
 The following is a list of recipients of the Bronze Star, with the dates of the awards, the country or territories from which the recipient served, and the type of award.
 
-The Bronze Star Medal is a non-combatant award created on September 20, 1945. It was originally authorized as the Bronze Star for Action with a Single Gallantry Decoration. The bronze star is between 1/8" (3.2 millimeters) and 3/8" (9.5 millimeters) in width and in height and is composed of a bronze star framed by a ring of laurel leaves. Awards are authorized for members of the United States military, acting beyond the call of duty in support of U.S. forces, who have performed an act of heroism. The silver star is authorized for members of the United States military, acting in support of U.S. forces, who have performed an act of heroism above and beyond the call of duty. 
+The Bronze Star Medal is a non-combatant award created on September 20, 1945. It was originally authorized as the Bronze Star for Action with a Single Gallantry Decoration. The bronze star is between 1/8" (3.2 millimeters) and 3/8" (9.5 millimeters) in width and in height and is composed of a bronze star framed by a ring of laurel leaves. Awards are authorized for members of the United States military, acting beyond the call of duty in support of U.S. forces, who have performed an act of heroism. The silver star is authorized for members of the United States military, acting in support of U.S. forces, who have performed an act of heroism above and beyond the call of duty.
 
-
-The following is a list of recipients of the Silver Star, with the dates of the awards, the country or territories from which the recipient served, and the type of award. 
+The following is a list of recipients of the Silver Star, with the dates of the awards, the country or territories from which the recipient served, and the type of award.
 
 The Silver Star Medal is a military decoration of the United States military that is awarded for gallantry in action against an enemy of the United States. The silver star is between 1/8" (3.2 millimeters) and 3/8" (9.5 millimeters) in width and in height and is composed of a silver star framed by a ring of laurel leaves. Awards are authorized for members of the United States military, acting beyond the call of duty in support of U.S. forces, who have performed an act of heroism. The gold star is authorized for members of the United States military, acting in support of U.S. forces, who have performed an act of heroism above and beyond the call of duty.
 
 The Bronze Star Medal is the third-highest U.S. military award for heroism. The medal is awarded for meritorious service » above and beyond the call of duty » while engaged in combat or while participating in military operations Deployment or service in a hostile environment. The bronze star is approximately 3/8 inches in diameter. The medal is suspended from a white ribbon with a blue central stripe.
 
-The bronze star is awarded for acts of heroism or heroism meritorious in the face of great danger. 
+The bronze star is awarded for acts of heroism or heroism meritorious in the face of great danger.
 
 The bronze star is the fourth-highest decoration awarded to members of the United States Armed Forces. It is the equivalent of the French Médaille militaire.
 
@@ -2726,10 +2621,7 @@ The bronze star is authorized for wear on the military uniform of the United Sta
 
 The bronze star is not awarded for acts of gallantry in the face of the enemy. The bronze star is awarded only for acts of heroism or heroism meritorious in the face of great danger. An example of heroism meritorious in the face of great danger might be successfully preventing a disaster after a colleague had been injured.
 
-
 # 32. The Search for the Lost Kingdom
-
-
 
 The dragon was a powerful and dangerous creature, and it seduced the king of Erasth into trusting it. The king allowed the dragon to rule the kingdom and to take whatever it wanted. The people were forced to work hard all day long in the dragon’s factories, and they had to do whatever the dragon said.
 
@@ -2775,14 +2667,11 @@ Musgrave died in 1984. He was buried at Sutton Bonington in Northamptonshire.
 
 A plaque in his memory was unveiled at Sutton Bonington Railway Station in 1999.
 
-
 The kingdom of the North flourished under the wise rule of the king. The people were able to prosper because of his positive leadership and wise policies. He was able to keep the peace and unite the kingdom while also maintaining order and prosperity. He also promoted progress and innovation, which helped the kingdom grow and thrive.
 
 "There is a great silence in the world," the sage said, "and it is only broken by the crack of Flame. So answer me this - what is the sound of one hand clapping?"
 
 There is no definitive answer, but some say it is like a thunderclap. Mostly people hear it as a loud sound that pierces the air.
-
-
 
 Athletic sound explosion
 
@@ -2806,10 +2695,7 @@ Above the horizon, the dragon could see a brilliant light. It gradually grew nea
 
 The dragon descended toward the sun, dipping its wing in a graceful arc. It stopped just above the surface, sparkling for a moment before disappearing into the blaze.
 
-
 # 33. The Return of the Eternal Sun
-
-
 
 But the dragon was also noble. It was strong, and it did not fear the challenges that life presented. It fought for what it believed in, and it was never afraid to stand up to those who would defy it.
 
@@ -2843,7 +2729,7 @@ After the giant had been killed, the city was ruined, and the king and his peopl
 
 One of the people who found the new city was a woman named Tabitha. Tabitha was a genius and was able to help the city grow and prosper. She was also able to help find new people and eventually had a baby named Noah.
 
-One day, Noah was playing outside and saw a giant walking by. Noah was inspired by the giant and decided to become a giant himself. Tabitha was worried about Noah, but was happy that he had found something to focus on other than their previous city. 
+One day, Noah was playing outside and saw a giant walking by. Noah was inspired by the giant and decided to become a giant himself. Tabitha was worried about Noah, but was happy that he had found something to focus on other than their previous city.
 
 Noah was inspired by the giant and decided to become a giant himself. Tabitha was worried about Noah, but was happy that he had found something to focus on other than their previous city.
 
@@ -2857,25 +2743,19 @@ Noah was happy to have something new to focus on and was relieved that everythin
 
 Tabitha was happy to have someone to talk to and was relieved that everything was going well with Noah.
 
-
-
 "Things are going well between Noah and I." said Tobitha. "I'm so happy that we're finally able to be together."
 
 Gideon kissed her passionately, his love for her evident in every caress. "I've never been happier," he said.
 
 The couple settled down in the straw, content in each other's company. As they lay there, they both fell asleep, knowing that they had finally found their place in the world
 
-
 # 34. The Battle for the Soul of Erasth
-
-
 
 They formed militias and made weapons to fight against the dragon. They knew that if they couldn't stop the dragon, then their kingdom would fall.
 
 The hero's sword was forged from the finest metal and blessed with a powerful magic. It can cut through any armor or material with ease, and it has the ability to heal any wounds it inflicts.
 
 The sword is a physical embodiment of the hero and thus is imbued with their strength and courage.
-
 
 The king decreed that a day of celebration be held in honor of the hero's victory. Scholars were asked to give lectures on the hero's deeds, and the streets were decorated with garlands and flags in his honor.
 
@@ -2921,7 +2801,7 @@ The kingdom of the North was at peace because the wise king had brought prosperi
 
 Another of his achievements was the founding of a number of schools, which helped to spread education and knowledge throughout the kingdom. He also established a census to track the population, and instituted laws to protect the rights of the underprivileged.
 
- Overall, King Arthur was a successful ruler who helped to establish the kingdom of Camelot and protect its residents against threats both foreign and domestic.
+Overall, King Arthur was a successful ruler who helped to establish the kingdom of Camelot and protect its residents against threats both foreign and domestic.
 
 The forest was unnaturally still, the leaves rustling in the slightest breeze that dared to pass through. In the distance, you could see the misty blue mountains, a majestic view that was almost enough to make you forget why you were there.
 
@@ -2943,32 +2823,29 @@ It saw a small cluster of buildings in the distance. They looked like they might
 
 The dragon flew towards the buildings, its claws outstretched. It was going to feast tonight.
 
-
 # 35. The Curse of the Ancient Magic
-
-
 
 The dragon was a powerful and destructive creature. It ravaged the kingdom, destroying everything in its path. The king and his people fought bravely but were no match for the dragon. They were forced to flee the kingdom, and it was never the same again.
 
 The story of the kingdom of Erasth is a cautionary one. The people of a peaceful kingdom were destroyed by a powerful and destructive creature, and all because they were not prepared for it. If you are ever faced with a difficult situation, be prepared for it and be sure to take the appropriate precautions.
 
-He arrived at a crossing of two paths. 
+He arrived at a crossing of two paths.
 
-He chose the path on the left, and continued on his way. 
+He chose the path on the left, and continued on his way.
 
-But minutes later, he heard a loud noise from the path on the right. 
+But minutes later, he heard a loud noise from the path on the right.
 
-He turned around and saw that a giant ogre was blocking the way. 
+He turned around and saw that a giant ogre was blocking the way.
 
-The ogre was so big that he was towering over the hero and his warriors. 
+The ogre was so big that he was towering over the hero and his warriors.
 
-The ogre was also armed with a huge sword and a shield. 
+The ogre was also armed with a huge sword and a shield.
 
-The hero knew that he couldn't defeat the ogre alone, so he called on his courage and courage and led his warriors into battle. 
+The hero knew that he couldn't defeat the ogre alone, so he called on his courage and courage and led his warriors into battle.
 
-They fought bravely against the giant ogre, but eventually they were defeated. 
+They fought bravely against the giant ogre, but eventually they were defeated.
 
-The ogre took the hero and his warriors captive. 
+The ogre took the hero and his warriors captive.
 
 But the hero never gave up, and he fought courageously until he finally escaped.
 
@@ -3040,10 +2917,7 @@ As the plane careened down a runway, the back passenger's complaints grew louder
 
 With the plane now airborne, the back passenger's screams could be heard over the roar of the engine.
 
-
 # 36. The Showdown with the Dragon
-
-
 
 The king gathered all of the best warriors in the kingdom and sent them out to try and find a way to defeat the dragon. After many years of failed attempts, they finally found a way. The warriors attacked the dragon from behind, using their sharp claws and teeth to kill it.
 
@@ -3057,20 +2931,20 @@ The hero set out on his journey, accompanied by a band of devoted followers.
 
 The hero set out on his journey, accompanied by a band of faithful followers. Following in the hero’s footsteps are a grizzled old woodsman and his young apprentice, a python whip wielding sorceress, a dwarf who can talk to animals and a rangy half-orc Assassin. The party follows the hero's guidance, trusting in his experience and wisdom. Along the way, they must face monsters and overcome perilous challenges. If the party succeeds, they will help the hero achieve his quest and bring peace and order to the land.
 
-The party's members may include: 
+The party's members may include:
 
-1. The mage who casts the party's spells 
-2. The tank who can take a hit and dish out damage 
-3. The healer who can restore health to the team 
-4. The archer who can take down most enemies from range 
-5. The Rogue who can stealth through the enemy ranks and take advantage of openings 
-6. The Fighter who can dish out heavy damage and stay alive in a fight 
-7. The Monk who can heal allies in a pinch and do some damage himself 
+1. The mage who casts the party's spells
+2. The tank who can take a hit and dish out damage
+3. The healer who can restore health to the team
+4. The archer who can take down most enemies from range
+5. The Rogue who can stealth through the enemy ranks and take advantage of openings
+6. The Fighter who can dish out heavy damage and stay alive in a fight
+7. The Monk who can heal allies in a pinch and do some damage himself
 8. The Paladin who can protect the team and deal righteous damage to enemies
 
-If the king agreed to have his daughter marry the stranger, their descendants would inherit the world. However, the king would have to give up his own life in the process. 
+If the king agreed to have his daughter marry the stranger, their descendants would inherit the world. However, the king would have to give up his own life in the process.
 
-The king hesitated, but ultimately decided to make the deal. The stranger led him to a hidden area in the palace and told him to kneel down. Then, he stabbed the king in the heart. 
+The king hesitated, but ultimately decided to make the deal. The stranger led him to a hidden area in the palace and told him to kneel down. Then, he stabbed the king in the heart.
 
 The king's daughter was left alone, wondering what had happened. She eventually discovered her father's body and realized that she had made a terrible mistake. She couldn't go back and undo the deal, so she had to live with the consequences.
 
@@ -3081,8 +2955,6 @@ The Feast of the Hero is a joyous celebration where the people of the kingdom co
 The dragonfly is a symbol of speed and agility. It is often associated with the element of air. Air is the element of motion.
 
 The dragon flew back to the high mountains, a sign of a new dawn.
-
-
 
 The dragon flew back to the high mountains, a sign of a new dawn.
 
@@ -3158,12 +3030,9 @@ They took the Crown Jewels and escaped the palace.
 
 The heroes had defeated the Shadow Queen and saved the city!
 
-
 # 37. The Revelation of the Dark Secrets
 
-
-
-The dragon is a popular symbol of strength, power, and flight. It is often used in logos and other images to represent a company or organization. 
+The dragon is a popular symbol of strength, power, and flight. It is often used in logos and other images to represent a company or organization.
 
 The dragon is also the national emblem of the People's Republic of China.
 
@@ -3175,9 +3044,9 @@ The traditional story of David and Goliath is a famous example of a heroic conte
 
 This story has been told throughout history, and it is often used as a metaphor for the power of courage and determination. People often compare their own struggles against adversity to that of David and Goliath.
 
-In ancient times, there was a giant named Goliath who stood much taller than any other man. One day, a young shepherd named David challenged Goliath to a duel. Despite being outnumbered 2-1, David was able to fight back and eventually defeat Goliath. The story of David and Goliath is often used to symbolize the power of courage and determination. He was attacked by a snake before he even got started, but he quickly dispatched of it with his sword.  He also came across a group of bandits, but he was able to use his wit and skills to defeat them.  In the end, the hero reached his destination - a beautiful tower.
+In ancient times, there was a giant named Goliath who stood much taller than any other man. One day, a young shepherd named David challenged Goliath to a duel. Despite being outnumbered 2-1, David was able to fight back and eventually defeat Goliath. The story of David and Goliath is often used to symbolize the power of courage and determination. He was attacked by a snake before he even got started, but he quickly dispatched of it with his sword. He also came across a group of bandits, but he was able to use his wit and skills to defeat them. In the end, the hero reached his destination - a beautiful tower.
 
-If the king accepted, he would be able to marry his true love, but in return the kingdom would be subject to a lifetime of darkness. 
+If the king accepted, he would be able to marry his true love, but in return the kingdom would be subject to a lifetime of darkness.
 
 The king hesitated, but finally decided to take the deal. The darkness came, and with it, ruin. The kingdom was destroyed, and the king and his love were lost forever.
 
@@ -3191,9 +3060,7 @@ The young man was brave and he did everything he could to protect his people fro
 
 This is a common trope in fictional works such as legend, myth, and fiction.
 
-
-
-The hero, often an inexperienced youth or young adult, is put into a precarious or dangerous situation and must use his or her abilities and wit to survive. These situations might include being trapped in a perilous situation, being hunted by a monster, or being on the losing side of a competition. 
+The hero, often an inexperienced youth or young adult, is put into a precarious or dangerous situation and must use his or her abilities and wit to survive. These situations might include being trapped in a perilous situation, being hunted by a monster, or being on the losing side of a competition.
 
 The hero typically has to use his intelligence and resourcefulness to outsmart or overcome the difficulties posed to him. These challenges might include overcoming physical manifestations of danger, solving complex puzzles, or outmaneuvering an opponent.
 
@@ -3233,10 +3100,7 @@ The king ensured that all people had the same rights and were treated fairly. He
 
 He was also a good leader and led the country through some difficult times. He was able to get the country through the recession and keep it from becoming a full-blown crisis.
 
-
 # 38. The Quest for the Sacred Artifact
-
-
 
 One day, the king made a decision that he believed would help protect his people. He decided to summon the dragon and fight it head on. The king knew that he had to be prepared for the dragon's powerful attack, and he was ready for it. The king and his advisers fought bravely against the dragon, and they were able to defeat it. The people of Erasth were saved, and the kingdom was safe.
 
@@ -3292,7 +3156,7 @@ Prince
 
 Help! Please, someone help me! There are so many knights lying wounded here, and I don't know how to help them.
 
-First, you need to stop Fighting and use your abilities to heal the knights. 
+First, you need to stop Fighting and use your abilities to heal the knights.
 
 Second, you can use your abilities to push back the evil forces that are attacking the knights.
 
@@ -3304,10 +3168,9 @@ The kingdom of the North was pacified, the enemy forces defeated and the land at
 
 The kingdom of the North was expanded, the enemy forces defeated and the land at peace.
 
-
 # 39. The Clash of the Opposing Forces
 
- The advisors argued back and forth, but the king remained silent.
+The advisors argued back and forth, but the king remained silent.
 
 "What should we do?" one advisor asked.
 
@@ -3335,11 +3198,7 @@ The hero succeeded in the challenge.
 
 The hero prevailed in the challenge.
 
-
-
 Yes!
-
-
 
 Yes. It is possible to resharpen a knife."
 
@@ -3355,13 +3214,13 @@ This is not a fact. The hero's strength was due to his training, not his size.
 
 This is not a fact. There is no scientific evidence that marijuana can cure cancer. There is limited scientific evidence that marijuana can cause cancer. Studies have shown that marijuana smoke can contain cancer-causing chemicals, but the link between marijuana use and cancer is not yet clear. Some medical experts believe that marijuana may increase the risk of certain cancers, but more research is needed to confirm this.
 
-The forest was alive with the sound of birds singing and the scent of wildflowers in the air. As Jane walked through the woods, she felt a sense of peace andtranquility. She paused to look at a small lake that was hidden amongst the trees, and she felt a warmth in her heart. She breathed in the freshness of the forest air and was filled with a sense of happy calmness. 
+The forest was alive with the sound of birds singing and the scent of wildflowers in the air. As Jane walked through the woods, she felt a sense of peace andtranquility. She paused to look at a small lake that was hidden amongst the trees, and she felt a warmth in her heart. She breathed in the freshness of the forest air and was filled with a sense of happy calmness.
 
 "I love this place," she breathed.
 
-She began to walk towards the lake, and as she got closer she could see that there were small boats at the shore.  She walked over and sat down in one of the boats, rested her head on her arms and stared at the water. 
+She began to walk towards the lake, and as she got closer she could see that there were small boats at the shore. She walked over and sat down in one of the boats, rested her head on her arms and stared at the water.
 
-The peace and stillness of the forest was a stark contrast to the lively noises of the boats and the waves.  She felt herself begin to relax, and she closed her eyes and allowed herself to sink into the peacefulness of the moment.
+The peace and stillness of the forest was a stark contrast to the lively noises of the boats and the waves. She felt herself begin to relax, and she closed her eyes and allowed herself to sink into the peacefulness of the moment.
 
 The peace and stillness of the forest was a stark contrast to the lively noises of the boats and the waves.
 
@@ -3379,7 +3238,7 @@ Then, from out of nowhere, a group of brave knights rode into view. They charged
 
 The orcs were quickly defeated, and the villagers were able to get safely away. Thanks to the knights, they were able to survive.
 
-Without the knights, the villagers may not have survived. 
+Without the knights, the villagers may not have survived.
 
 Without the knights, the villagers may have had to defend themselves with whatever they could find, and many would have likely died in the process. With good armor and weaponry, the knights would have negated the majority of the threat posed by the villagers, and the battle would have been relatively quick and bloodless. Without such protections, the knights would have likely died in droves.
 
@@ -3389,10 +3248,7 @@ Without the protection of the king, the knights would have likely died in droves
 
 This is a difficult question to answer definitively. It is likely that the knights would have faced significant danger without the protection of the king, but there is no way to know for sure.
 
-
 # 40. The Battle for the Fate of the Kingdom
-
-
 
 They fought bravely, but eventually the dragon overpowered them. It grabbed one of the warriors and swallowed him whole. The remaining warriors ran away in fear. King Erasth was alone, and the dragon had defeated him.
 
@@ -3430,17 +3286,15 @@ In general, the game follows the story of a young girl who befriends a magical c
 
 The game was announced on March 26, 2016, for release in early 2017 for Microsoft Windows, macOS, and Linux.
 
-Playable characters include a young girl, also named Alice, who befriends a magical creature, as well as different beings that Alice can transform into, such as a giant bird, a giant rabbit, a fiery dragon, and a giant snowman. Each of these characters has unique abilities that are needed to complete the game's challenges. 
+Playable characters include a young girl, also named Alice, who befriends a magical creature, as well as different beings that Alice can transform into, such as a giant bird, a giant rabbit, a fiery dragon, and a giant snowman. Each of these characters has unique abilities that are needed to complete the game's challenges.
 
-The game is set in a post-apocalyptic world where humans are struggling to survive against the challenges of nature and the hostile creatures that live in it. To ensure the survival of the human race, the government has created a team of experts known as the White Guard to capture and study the magical creatures that live in the forest. 
+The game is set in a post-apocalyptic world where humans are struggling to survive against the challenges of nature and the hostile creatures that live in it. To ensure the survival of the human race, the government has created a team of experts known as the White Guard to capture and study the magical creatures that live in the forest.
 
-The game follows Alice as she spends her days playing with the magical creatures and trying to protect them from the White Guard. The game's challenges are based around using the magical creatures' abilities to help the human characters survive and reach the final stages of the game. 
+The game follows Alice as she spends her days playing with the magical creatures and trying to protect them from the White Guard. The game's challenges are based around using the magical creatures' abilities to help the human characters survive and reach the final stages of the game.
 
 The game was funded through a Kickstarter campaign that reached its funding goal of $75,000 in less than 24 hours. The game was released on February 10, 2017 for Microsoft Windows, macOS, and Linux.
 
 The game received "mixed or average" reviews from critics, who praised the game's visual design and the gameplay mechanics, but criticised the game's short length and repetitiveness.
-
-
 
 The young man was a devoted member of the kingdom's army and was always ready to fight for his people. He was courageous and determined, and he always put the safety of his kingdom first. Whenever there was a danger to the kingdom, the young man was immediately ready to face it and protect the people from it.
 
@@ -3460,12 +3314,7 @@ The parade shining in its glory and color, heralding the joy of the day. The ban
 
 Legends often grow out of exceptional people and in the case of The Hero of Ioniq, his legacy is well deserved. His bravery and determination during the war would go on to be remembered and sung about for many years to come.
 
-
 # 41. The Power of the Dragon's Breath
-
-
-
-
 
 Sarah: Aaaarrrrggghhh!
 
@@ -3553,10 +3402,7 @@ In the distance, you could hear the sound of a stream running through the woods.
 
 A beautiful day
 
-
 # 42. The Clash of the Opposing Powers
-
-
 
 This evaluation is a combination of the following:
 
@@ -3584,10 +3430,7 @@ The people loved and admired him greatly.
 
 He was loved and admired by the people.
 
-
-
 Unfortunately, he was also hated by the people.
-
 
 At the beginning, he was loved by the people because he was a powerful and successful king. However, over time, his arrogance and royal lifestyle caused him to be hated by the people.
 
@@ -3608,8 +3451,6 @@ The Sword of the Moon is said to be able to heal wounds, cast a protective spell
 The hero was presented with a medal of honor for his bravery and courage.
 
 The hero was presented with a medal of honor for his bravery and courage.
-
-
 
 The hero was given a medal of honor for his bravery and courage.
 
@@ -3639,10 +3480,7 @@ It is also possible that electric vehicles will not be able to compete with othe
 
 The stranger offered to give the king a magic bean that would make him the most powerful man in the world. If the king would give the bean to one of his subjects, the subject would become his slave for life. The king agreed, and soon began giving the bean to the most powerful people in his kingdom. With each passing day, the king's power grew, until he became a tyrant. No one could resist his commands, and the kingdom was soon under his control.
 
-
 # 43. The Return of the Last Hope
-
-
 
 He asked the hero to find and defeat the dragon that guarded the holy mountain.
 
@@ -3742,14 +3580,9 @@ May your journey be safe, and may the strength of your convictions carry you thr
 
 May the stars guide your path, and may the gods keep you safe on your journey.
 
-
-
 On the day of the victory, the king declared a day of celebration. People were allowed to wear their favorite costumes and there was music and dancing in the streets.
 
-
 # 44. The Return of the Dragon's Fire
-
-
 
 The sage said "May your journey be rewarding and may the power of the spirits guide you along the way."
 
@@ -3833,10 +3666,7 @@ IGN awarded it a 5 out of 10, criticising the "flimsy" controls and the "subpar"
 
 Polygon awarded 3 out of 10, criticising the "poor" graphics, lack of variety, and "uneven" difficulty levels.
 
-
 # 45. The Triumph of the Heroes
-
-
 
 Suddenly, the dragon flew back into the kingdom. She was surrounded by flames, and her eyes were filled with hatred. She was determined to take revenge on the heroes who had defeated her.
 
@@ -3849,8 +3679,6 @@ The hero was also given a sword as a symbol of his courage and determination.
 The hero's name became legend, his legacy remembered in stories and songs.
 
 King Arthur and the Knights of the Round Table
-
-
 
 In the Middle Ages, Sir Thomas Malory wrote the stories of King Arthur and his knights of the round table. These stories were Piers Plowman, which were followed by The Code of Chivalry. These tales have been passed down through the centuries and have become a part of Western culture.
 
@@ -3918,16 +3746,13 @@ In mythology, a dragon is a creature with wings, a long body, and a serpent-like
 
 The hero sets out on their mission and soon confronts the enemy. After a difficult battle, they emerge victorious and the kingdom is saved.
 
-
 # 46. The Search for the Lost Treasure
-
-
 
 The dragon was a powerful and wicked creature whose arrival heralded centuries of darkness and turmoil for the kingdom. The king was unable to repell the dragon, and it began to ravage the kingdom, destroying crops, killing livestock, and terrorizing the people.
 
- Without the king's protection, the people soon began to flee the kingdom in droves. The kingdom fell victim to the dragon's wrath, and it was eventually consumed by the beast.
+Without the king's protection, the people soon began to flee the kingdom in droves. The kingdom fell victim to the dragon's wrath, and it was eventually consumed by the beast.
 
- Though the kingdom was destroyed, the people never lost hope and continued to live in harmony with nature. In the end, even the dragon was unable to take away their spirit of happiness and prosperity.
+Though the kingdom was destroyed, the people never lost hope and continued to live in harmony with nature. In the end, even the dragon was unable to take away their spirit of happiness and prosperity.
 
 The sword's light illuminated the area around him as he fought. The enemy was hesitant to come closer, knowing that they would be met with a powerful attack. The hero was confident in his abilities, knowing that he could defeat the enemy with ease.
 
@@ -3939,7 +3764,7 @@ Yes! Yes, I love the ocean!
 
 Yes, I love feeling the spray on my face as I swim.
 
-Yes, I love the way the tide pulls me along and the way the waves crash against the shore. 
+Yes, I love the way the tide pulls me along and the way the waves crash against the shore.
 
 Yes, I love feeling the coolness of the water and the way it keeps me cool during the summer.
 
@@ -4011,10 +3836,7 @@ If you can smell something burning, there is likely a fire burning inside.
 
 The animals in the forest were the monkeys, the birds, and the bugs. The monkeys were the most common, but there were also toucans and parrots. The birds sang all day long, and the bugs made a lot of noise. The monkeys threw sticks and stones at the birds, and the birds protected themselves with their wings. The bugs were always hopping around.
 
-
 # 47. The Battle at the Gates of Hell
-
-
 
 But the dragon wasn't targeting them. It was focused on the castle, its eyes burning with rawness and a hunger that could not be quenched.
 
@@ -4068,7 +3890,7 @@ The atonement of Jesus Christ provides complete forgiveness for sin, and allows 
 
 Eventually, the sword is stolen and the hero goes into exile. He eventually finds his way back to his kingdom and reclaims his sword, only to find that it is wielded by his worst enemy. The enemy forces the hero to fight him with his own sword. In the end, the hero emerges victorious, and he passes on his sword to his son.
 
-The hero must learn to use his sword effectively in order to win against the enemy. He also must be aware of his surroundings in order to avoid being attacked from behind. With practice and determination, the hero will eventually be able to defeat the enemy and pass on his sword to his son. 
+The hero must learn to use his sword effectively in order to win against the enemy. He also must be aware of his surroundings in order to avoid being attacked from behind. With practice and determination, the hero will eventually be able to defeat the enemy and pass on his sword to his son.
 
 The hero learns skills from his father and from personal experiences. He acquires a better understanding of himself and the world around him. He also learns how to defend himself and how to defeat his enemy.
 
@@ -4090,10 +3912,7 @@ This is indicating a possible rift in their relationship.
 
 If the person has stopped responding to their partner's messages or phone calls, this may be a sign that there is a rift in their relationship. If the partner does not know how to contact the person, this could also be a sign that the relationship is in trouble.
 
-
 # 48. The Final Showdown
-
-
 
 The leaders chose the last option and began to search for a way to trap the dragon. They found a cave that led underground and they knew that the dragon would be drawn in by the smell of the blood. They set up traps and waited for the dragon to arrive.
 
@@ -4109,12 +3928,12 @@ The hero's sword was always brightly shining and was a powerful weapon that help
 
 The hero always had a bright and shining sword, which was a powerful and effective weapon in any battle. This helped them achieve victory over their opponents, no matter how strong they were.
 
-The hero always had a bright and shining sword, which was a powerful and effective weapon in any battle.  This helped them achieve victory over their opponents, no matter how strong they were.
+The hero always had a bright and shining sword, which was a powerful and effective weapon in any battle. This helped them achieve victory over their opponents, no matter how strong they were.
 
 The hero was generally mourned when he died or disappeared. Some people sometimes renamed themselves after him.
 
 People renamed themselves Geoffrey after the hero Geoff died.
-No matter how many times he was hit by the enemy's attacks, his sword never dulled in brightness. 
+No matter how many times he was hit by the enemy's attacks, his sword never dulled in brightness.
 
 He fought bravely, never giving up, until one final blow dropped him to the ground.
 
@@ -4164,8 +3983,8 @@ The dragon flew back to its home after defeating the dragon that had been terror
 
 They then set out on their journey again to find new adventures.
 
-However, while all seemed to be well and peace had been restored, there was something lurking in the shadows. 
+However, while all seemed to be well and peace had been restored, there was something lurking in the shadows.
 
-A dark force had been stirring, seeking to enslave the kingdom and unleash carnage on all those in its way. 
+A dark force had been stirring, seeking to enslave the kingdom and unleash carnage on all those in its way.
 
 Only by uniting the kingdom's disparate factions and fighting against this looming threat can the kingdom hope to safety.

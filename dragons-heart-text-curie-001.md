@@ -1,8 +1,13 @@
 Title: The Dragon's Heart
+
 Author: Timo Koola
+
 Language: English
+
 Genre: Fantasy
+
 Release Date: November 30, 2022
+
 Generated: chapter start prompts using text-davinci-003, other parts with text-curie-001
 
 # The Gathering of the Heroes
